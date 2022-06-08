@@ -8,7 +8,7 @@ package lua
 /*
 #cgo CFLAGS: -I ${SRCDIR}/lua51
 
-#cgo LDFLAGS: -static -lluajit-5.1  -lm -ldl
+#cgo LDFLAGS: -lluajit-5.1  -lm -ldl
 
 #include <lua.h>
 #include <stdlib.h>

@@ -1,7 +1,7 @@
 Go Bindings for the lua C API
 =========================
 
-Modified to defaultly use luajit static linking  
+Modified to defaultly use luajit  
 
 
 [![Build Status](https://travis-ci.org/haoxingxing/golua.svg?branch=master)](https://travis-ci.org/haoxingxing/golua)
