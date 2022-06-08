@@ -1,11 +1,14 @@
 Go Bindings for the lua C API
 =========================
 
-[![Build Status](https://travis-ci.org/aarzilli/golua.svg?branch=master)](https://travis-ci.org/aarzilli/golua)
+Modified to defaultly use luajit static linking  
+
+
+[![Build Status](https://travis-ci.org/haoxingxing/golua.svg?branch=master)](https://travis-ci.org/haoxingxing/golua)
 
 Simplest way to install:
 
-	# go get github.com/aarzilli/golua/lua
+	# go get github.com/haoxingxing/golua/lua
 
 You can then try to run the examples:
 

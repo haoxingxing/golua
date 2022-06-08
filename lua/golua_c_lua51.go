@@ -1,5 +1,3 @@
-//+build !lua52,!lua53,!lua54
-
 package lua
 
 /*
